@@ -1,0 +1,8 @@
+{
+  "name": "Simple Pomodoro",
+  "description": "A simple pomodoro timer for the GNOME 50 top bar",
+  "uuid": "simple-pomodoro@luizvioto.github.io",
+  "shell-version": [
+    "50"
+  ]
+}
